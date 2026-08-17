@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Mon, 17 Aug 2026 17:44:00 GMT
+Server: Apache/2.2.8 (Ubuntu) DAV/2
+Last-Modified: Mon, 17 Aug 2026 17:43:18 GMT
+ETag: "1081e-19-65941b499f980"
+Accept-Ranges: bytes
+Content-Length: 25
+Content-Type: text/plain
+
+Task 5 WebDAV write test
